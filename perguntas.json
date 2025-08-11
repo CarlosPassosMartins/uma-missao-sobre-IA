@@ -1,37 +1,37 @@
 [
-    {
-        "enunciado": "Você está desenvolvendo uma nova funcionalidade. Em qual parte você gasta a maior parte do seu tempo?",
-        "alternativas": [
-            { "texto": "Ajustando o layout e a interação do usuário para que seja visualmente atraente e intuitivo.", "afirmacao": "Você prefere o desenvolvimento front-end." },
-            { "texto": "Modelando os dados, otimizando as consultas e garantindo a lógica de negócio no servidor.", "afirmacao": "Você prefere o desenvolvimento back-end." }
-        ]
-    },
-    {
-        "enunciado": "No seu trabalho ideal, qual seria o seu maior desafio?",
-        "alternativas": [
-            { "texto": "Garantir uma experiência de usuário fluida e responsiva em diferentes dispositivos e navegadores.", "afirmacao": "Você se preocupa mais com a experiência do usuário." },
-            { "texto": "Projetar um sistema robusto e escalável que lide eficientemente com grandes volumes de dados.", "afirmacao": "Você se concentra mais na arquitetura do sistema." }
-        ]
-    },
-    {
-        "enunciado": "Quando você encontra um bug, qual tipo de problema te motiva mais a resolver?",
-        "alternativas": [
-            { "texto": "Um botão que não está funcionando ou um elemento que está desalinhado.", "afirmacao": "Você gosta de resolver problemas visuais e de interação." },
-            { "texto": "Uma falha na comunicação entre o banco de dados e a API.", "afirmacao": "Você gosta de resolver problemas de lógica e processamento de dados." }
-        ]
-    },
-    {
-        "enunciado": "Em uma nova tecnologia, o que mais te atrai?",
-        "alternativas": [
-            { "texto": "Uma nova biblioteca JavaScript que simplifica a criação de interfaces de usuário complexas.", "afirmacao": "Você é atraído por ferramentas para o lado do cliente." },
-            { "texto": "Um novo framework para otimizar o processamento de requisições no servidor.", "afirmacao": "Você é atraído por ferramentas para o lado do servidor." }
-        ]
-    },
-    {
-        "enunciado": "Em um projeto de equipe, qual papel você prefere desempenhar?",
-        "alternativas": [
-            { "texto": "Ser a pessoa responsável por implementar o design e a experiência visual do site.", "afirmacao": "Você se identifica com o papel de front-end." },
-            { "texto": "Ser a pessoa que garante que o sistema está funcionando corretamente por trás dos panos.", "afirmacao": "Você se identifica com o papel de back-end." }
-        ]
-    }
+    {
+        "enunciado": "Você está desenvolvendo uma nova funcionalidade. Em qual parte você gasta a maior parte do seu tempo?",
+        "alternativas": [
+            { "texto": "Ajustando o layout e a interação do usuário para que seja visualmente atraente e intuitivo.", "afirmacao": "Você prefere o desenvolvimento front-end." },
+            { "texto": "Modelando os dados, otimizando as consultas e garantindo a lógica de negócio no servidor.", "afirmacao": "Você prefere o desenvolvimento back-end." }
+        ]
+    },
+    {
+        "enunciado": "No seu trabalho ideal, qual seria o seu maior desafio?",
+        "alternativas": [
+            { "texto": "Garantir uma experiência de usuário fluida e responsiva em diferentes dispositivos e navegadores.", "afirmacao": "Você se preocupa mais com a experiência do usuário." },
+            { "texto": "Projetar um sistema robusto e escalável que lide eficientemente com grandes volumes de dados.", "afirmacao": "Você se concentra mais na arquitetura do sistema." }
+        ]
+    },
+    {
+        "enunciado": "Quando você encontra um bug, qual tipo de problema te motiva mais a resolver?",
+        "alternativas": [
+            { "texto": "Um botão que não está funcionando ou um elemento que está desalinhado.", "afirmacao": "Você gosta de resolver problemas visuais e de interação." },
+            { "texto": "Uma falha na comunicação entre o banco de dados e a API.", "afirmacao": "Você gosta de resolver problemas de lógica e processamento de dados." }
+        ]
+    },
+    {
+        "enunciado": "Em uma nova tecnologia, o que mais te atrai?",
+        "alternativas": [
+            { "texto": "Uma nova biblioteca JavaScript que simplifica a criação de interfaces de usuário complexas.", "afirmacao": "Você é atraído por ferramentas para o lado do cliente." },
+            { "texto": "Um novo framework para otimizar o processamento de requisições no servidor.", "afirmacao": "Você é atraído por ferramentas para o lado do servidor." }
+        ]
+    },
+    {
+        "enunciado": "Em um projeto de equipe, qual papel você prefere desempenhar?",
+        "alternativas": [
+            { "texto": "Ser a pessoa responsável por implementar o design e a experiência visual do site.", "afirmacao": "Você se identifica com o papel de front-end." },
+            { "texto": "Ser a pessoa que garante que o sistema está funcionando corretamente por trás dos panos.", "afirmacao": "Você se identifica com o papel de back-end." }
+        ]
+    }
 ]
