@@ -1,73 +1,37 @@
-[
-
-    {
-
-        "enunciado": "Você recebe uma proposta de emprego para trabalhar com IA. O que faz?",
-
-        "alternativas": [
-
-            { "texto": "Aceita e começa a aprender sobre IA.", "afirmacao": "Você decidiu investir na sua carreira com IA." },
-
-            { "texto": "Recusa por não confiar na tecnologia.", "afirmacao": "Você prefere manter distância da IA." }
-
-        ]
-
-    },
-
-    {
-
-        "enunciado": "No trabalho, sugerem automatizar tarefas repetitivas. Qual sua reação?",
-
-        "alternativas": [
-
-            { "texto": "Apoia a ideia para aumentar a produtividade.", "afirmacao": "Você acredita que a IA pode facilitar o dia a dia." },
-
-            { "texto": "Tem receio de perder o emprego.", "afirmacao": "Você teme que a IA substitua pessoas." }
-
-        ]
-
-    },
-
-    {
-
-        "enunciado": "Uma IA começa a tomar decisões importantes na empresa. O que você faz?",
-
-        "alternativas": [
-
-            { "texto": "Confia nas decisões da IA.", "afirmacao": "Você acredita na precisão da IA." },
-
-            { "texto": "Sugere supervisão humana.", "afirmacao": "Você defende o equilíbrio entre IA e pessoas." }
-
-        ]
-
-    },
-
-    {
-
-        "enunciado": "Você descobre que a IA pode ser usada para criar arte. Como reage?",
-
-        "alternativas": [
-
-            { "texto": "Experimenta criar uma obra com IA.", "afirmacao": "Você explora novas formas de criatividade." },
-
-            { "texto": "Prefere arte feita apenas por humanos.", "afirmacao": "Você valoriza o toque humano na arte." }
-
-        ]
-
-    },
-
-    {
-
-        "enunciado": "Surge uma discussão sobre ética na IA. Qual sua posição?",
-
-        "alternativas": [
-
-            { "texto": "Defende regras claras para uso da IA.", "afirmacao": "Você acredita que a ética é fundamental." },
-
-            { "texto": "Acha que a tecnologia deve evoluir livremente.", "afirmacao": "Você prioriza inovação acima de tudo." }
-
-        ]
-
-    }
-
+ [
+    {
+        "enunciado": "Você recebe uma proposta de emprego para trabalhar com IA. O que faz?",
+        "alternativas": [
+            { "texto": "Aceita e começa a aprender sobre IA.", "afirmacao": "Você decidiu investir na sua carreira com IA." },
+            { "texto": "Recusa por não confiar na tecnologia.", "afirmacao": "Você prefere manter distância da IA." }
+        ]
+    },
+    {
+        "enunciado": "No trabalho, sugerem automatizar tarefas repetitivas. Qual sua reação?",
+        "alternativas": [
+            { "texto": "Apoia a ideia para aumentar a produtividade.", "afirmacao": "Você acredita que a IA pode facilitar o dia a dia." },
+            { "texto": "Tem receio de perder o emprego.", "afirmacao": "Você teme que a IA substitua pessoas." }
+        ]
+    },
+    {
+        "enunciado": "Uma IA começa a tomar decisões importantes na empresa. O que você faz?",
+        "alternativas": [
+            { "texto": "Confia nas decisões da IA.", "afirmacao": "Você acredita na precisão da IA." },
+            { "texto": "Sugere supervisão humana.", "afirmacao": "Você defende o equilíbrio entre IA e pessoas." }
+        ]
+    },
+    {
+        "enunciado": "Você descobre que a IA pode ser usada para criar arte. Como reage?",
+        "alternativas": [
+            { "texto": "Experimenta criar uma obra com IA.", "afirmacao": "Você explora novas formas de criatividade." },
+            { "texto": "Prefere arte feita apenas por humanos.", "afirmacao": "Você valoriza o toque humano na arte." }
+        ]
+    },
+    {
+        "enunciado": "Surge uma discussão sobre ética na IA. Qual sua posição?",
+        "alternativas": [
+            { "texto": "Defende regras claras para uso da IA.", "afirmacao": "Você acredita que a ética é fundamental." },
+            { "texto": "Acha que a tecnologia deve evoluir livremente.", "afirmacao": "Você prioriza inovação acima de tudo." }
+        ]
+    }
 ]
